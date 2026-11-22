@@ -1,11 +1,16 @@
 # tunyk
 
-App development for early-stage startups and individual professionals.
+Your product, built by a team led by a software architect.
 
-Custom development from $5,000: web and mobile products, integrations, payments, cloud and DevOps.
+For early-stage startups and individual professionals. Every project is led by an architect with deep knowledge of design patterns. The team he trained puts AI to work on the routine, so development moves an order of magnitude faster.
 
-Websites on our own SaaS platform, from $800: localized, responsive, edited right on the page.
+- **MVP development**: from idea to a product your first users pay for.
+- **CTO as a service**: a senior technical lead without a full-time hire, for decisions, reviews and hiring.
+- **Custom development**: web and mobile apps, integrations, payments, cloud and DevOps.
+- **Website platform** (beta): our own SaaS, a localized, responsive website you edit right on the page.
 
-[tunyk.com](https://tunyk.com) | [Upwork](https://www.upwork.com/agencies/1711836535154200576/) | [LinkedIn](https://www.linkedin.com/company/tunyk)
+5.0 on Upwork, 34 completed jobs, since 2018.
 
-Tunyk s.p.
+[tunyk.com](https://tunyk.com) | [Upwork](https://www.upwork.com/agencies/1711836535154200576/) | [LinkedIn](https://www.linkedin.com/company/tunyk) | mykola@tunyk.com
+
+Tunyk s. p.
