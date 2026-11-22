@@ -9,6 +9,8 @@ For early-stage startups and individual professionals. Every project is led by a
 - **Custom development**: web and mobile apps, integrations, payments, cloud and DevOps.
 - **Website platform** (beta): our own SaaS, a localized, responsive website you edit right on the page.
 
+Previous work includes a website and dashboard for NJREAP and a CI/CD migration to GitHub Actions.
+
 5.0 on Upwork, 34 completed jobs, since 2018.
 
 [tunyk.com](https://tunyk.com) | [Upwork](https://www.upwork.com/agencies/1711836535154200576/) | [LinkedIn](https://www.linkedin.com/company/tunyk) | mykola@tunyk.com
