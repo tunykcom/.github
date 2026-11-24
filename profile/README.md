@@ -1,4 +1,4 @@
-# tunyk
+# Tunyk
 
 Your product, built by a team led by a software architect.
 
@@ -15,4 +15,4 @@ Previous work includes a website and dashboard for NJREAP and a CI/CD migration 
 
 [tunyk.com](https://tunyk.com) | [Upwork](https://www.upwork.com/agencies/1711836535154200576/) | [LinkedIn](https://www.linkedin.com/company/tunyk) | mykola@tunyk.com
 
-Tunyk s. p.
+Tunyk s.p.
